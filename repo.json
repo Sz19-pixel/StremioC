@@ -1,0 +1,6 @@
+{
+  "name": "StremioC Repo",
+  "plugins": [
+    "https://raw.githubusercontent.com/Sz19-pixel/cloudstream-plugin-stremioc/main/StremioC/build.gradle.kts"
+  ]
+}
